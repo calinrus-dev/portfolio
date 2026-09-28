@@ -4,7 +4,7 @@
 
 Desarrollo aplicaciones, herramientas y videojuegos con una mentalidad **data-driven y local-first**. Me interesan el rendimiento nativo, la arquitectura orientada a datos y las interfaces sobrias que ofrecen información útil sin sacrificar legibilidad.
 
-[Instagram @c4linrus](https://www.instagram.com/c4linrus/) · [LinkedIn / calinrus](https://www.linkedin.com/in/calinrus/) · [Perfil de GitHub](https://github.com/calinrus-dev) · [Manifiesto](docs/MANIFIESTO.md) · [Filosofía](docs/FILOSOFIA.md) · [Stack](docs/STACK.md)
+[Instagram @c4linrus](https://www.instagram.com/c4linrus/) · [LinkedIn / calinrus](https://www.linkedin.com/in/calinrus-dev/) · [Perfil de GitHub](https://github.com/calinrus-dev) · [Manifiesto](docs/MANIFIESTO.md) · [Filosofía](docs/FILOSOFIA.md) · [Stack](docs/STACK.md)
 
 ## Menos adjetivos. Abre una prueba.
 
