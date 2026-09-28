@@ -4,97 +4,97 @@
 
 Desarrollo aplicaciones, herramientas y videojuegos con una mentalidad **data-driven y local-first**. Me interesan el rendimiento nativo, la arquitectura orientada a datos y las interfaces sobrias que ofrecen información útil sin sacrificar legibilidad.
 
-[Web](https://calinrus.com) · [Instagram @c4linrus](https://www.instagram.com/c4linrus/) · [Perfil de GitHub](https://github.com/calinrus-dev) · [Filosofía](docs/FILOSOFIA.md) · [Stack](docs/STACK.md)
+[Web](https://calinrus.com) · [Instagram @c4linrus](https://www.instagram.com/c4linrus/) · [Perfil de GitHub](https://github.com/calinrus-dev) · [Manifiesto](docs/MANIFIESTO.md) · [Filosofía](docs/FILOSOFIA.md) · [Stack](docs/STACK.md)
 
 ## Trabajo destacado
 
-### [Etherune](https://github.com/calinrus-dev/etherune-showcase)
-
-Un juego de combate 2D que reúne portadores elementales, movimiento aéreo, transformaciones y creación de escenarios en una misma experiencia.
-
-**Godot · GDScript · Android · Windows** · Prototipo jugable local.  
-[Ver caso de estudio](https://github.com/calinrus-dev/etherune-showcase) · [Demostraciones](https://github.com/calinrus-dev/etherune-showcase/blob/main/docs/DEMOSTRACIONES.md)
-
 ### [Atelier 3D](https://github.com/calinrus-dev/atelier-3d-showcase)
 
-Un editor de espacios y escenas 3D con materiales, recorridos y salidas de presentación, pensado para pasar de una propuesta a una experiencia navegable.
+**Mi producto principal: un estudio 3D completo, disponible bajo licencia.** Reúne edición de espacios, materiales e iluminación, recorridos navegables y una cadena de entrega con imágenes, vídeo, planos PDF a escala y mediciones. La versión 1.0 incorpora emisión y renovación de licencias; una aplicación de escritorio que conecta diseño, presentación y entrega.
 
-**TypeScript · React · Rust · Tauri · WebGL** · Entrega de escritorio 1.0.  
+**TypeScript · React · Rust · Tauri · WebGL** · Producto de escritorio 1.0 · Disponible bajo licencia.  
 [Ver caso de estudio](https://github.com/calinrus-dev/atelier-3d-showcase) · [Demostraciones](https://github.com/calinrus-dev/atelier-3d-showcase/blob/main/docs/DEMOSTRACIONES.md)
 
-### [Malphas](https://github.com/calinrus-dev/malphas-showcase)
+### [Morgenstern](https://github.com/calinrus-dev/morgenstern-showcase)
 
-Un entorno que combina un motor nativo, herramientas de recursos y una interfaz visual para explorar experiencias interactivas.
+**Una línea de producción editorial con IA.** Automatiza el trabajo desde la materia prima narrativa hasta la generación de libros, la revisión y la exportación EPUB y audiolibro. Está pensado para coordinar producción de contenido a escala, conservar el contexto de cada obra y mantener al autor al mando de las decisiones.
 
-**Rust · Flutter · Dart** · Motor y herramientas en desarrollo.  
-[Ver caso de estudio](https://github.com/calinrus-dev/malphas-showcase) · [Demostraciones](https://github.com/calinrus-dev/malphas-showcase/blob/main/docs/DEMOSTRACIONES.md)
+**Python · Textual · Automatización** · Herramienta de producción editorial con IA.  
+[Ver caso de estudio](https://github.com/calinrus-dev/morgenstern-showcase) · [Demostraciones](https://github.com/calinrus-dev/morgenstern-showcase/blob/main/docs/DEMOSTRACIONES.md)
+
+### [BarrientosCare](https://github.com/calinrus-dev/barrientoscare-showcase)
+
+**Una web comercial real, publicada y en funcionamiento.** BarrientosCare une identidad visual, catálogo de belleza, búsqueda y filtros, variantes, cesta y Club con las herramientas que sostienen la gestión del negocio. Un producto desplegado que se puede visitar en [barrientoscare.es](https://barrientoscare.es).
+
+**TypeScript · React · Next.js** · Web publicada y en funcionamiento.  
+[Ver caso de estudio](https://github.com/calinrus-dev/barrientoscare-showcase) · [Demostraciones](https://github.com/calinrus-dev/barrientoscare-showcase/blob/main/docs/DEMOSTRACIONES.md)
+
+### [Etherune](https://github.com/calinrus-dev/etherune-showcase)
+
+**Mi videojuego en desarrollo.** Combate elemental 2D con portadores, Resonancia, transformaciones y movimiento aéreo, acompañado de laboratorio y editor de escenarios. Estoy trabajando con una diseñadora 2D en su evolución visual.
+
+**Godot · GDScript · Android · Windows** · Videojuego en desarrollo · Colaboración de diseño 2D.  
+[Ver caso de estudio](https://github.com/calinrus-dev/etherune-showcase) · [Demostraciones](https://github.com/calinrus-dev/etherune-showcase/blob/main/docs/DEMOSTRACIONES.md)
+
+### [KanjiZen](https://github.com/calinrus-dev/kanjizen-showcase)
+
+**Japonés convertido en entrenamiento.** Conecta reconocimiento, recuerdo activo y memoria gestual: aprender con guía, responder bajo presión y abrir nuevas etapas al demostrar dominio. La primera ruta jugable combina hiragana, MECA y Flick, con XP, colección y progreso local.
+
+**TypeScript · React Native · Expo** · Primera ruta jugable · Hiragana, MECA y Flick.  
+[Ver caso de estudio](https://github.com/calinrus-dev/kanjizen-showcase) · [Demostraciones](https://github.com/calinrus-dev/kanjizen-showcase/blob/main/docs/DEMOSTRACIONES.md)
 
 ### [Nhur](https://github.com/calinrus-dev/nhur-showcase)
 
-Una plataforma social organizada en Entornos, Canales y Entradas, donde la identidad y la apariencia cambian con el contexto.
+**Una alternativa a Amino para encontrar tu comunidad.** Nhur combina espacios temáticos y nichos con conversación inspirada en Discord, descubrimiento tipo Reddit y Entradas modulares al estilo Notion. La idea es que puedas crear tu comunidad y reunirte con personas que comparten tus intereses. Antes se conocía como Glow; hoy Glow forma parte de su identidad y su lenguaje visual.
 
 **TypeScript · React Native · Expo** · Preview local en desarrollo.  
 [Ver caso de estudio](https://github.com/calinrus-dev/nhur-showcase) · [Demostraciones](https://github.com/calinrus-dev/nhur-showcase/blob/main/docs/DEMOSTRACIONES.md)
 
-### [KanjiZen](https://github.com/calinrus-dev/kanjizen-showcase)
-
-Entrenamiento de lectura y escritura de kana mediante sesiones breves, entrada por teclado y gestos Flick, con progreso local.
-
-**TypeScript · React Native · Expo** · Primera experiencia de kana.  
-[Ver caso de estudio](https://github.com/calinrus-dev/kanjizen-showcase) · [Demostraciones](https://github.com/calinrus-dev/kanjizen-showcase/blob/main/docs/DEMOSTRACIONES.md)
+## Herramientas y soluciones
 
 ### [Caja Clara](https://github.com/calinrus-dev/caja-clara-showcase)
 
-Una herramienta personal para organizar ventas, inventario, calendario e informes de una jornada de trabajo desde el móvil.
+**Una jornada de trabajo completa, conectada en el móvil.** Ventas, inventario, devoluciones, calendario e informes conservan el contexto de cada operación. Diseño orientado a actuar con rapidez y revisar después con claridad, con datos locales.
 
 **TypeScript · React Native · Expo · SQLite** · Aplicación Android · 1.7.  
 [Ver caso de estudio](https://github.com/calinrus-dev/caja-clara-showcase) · [Demostraciones](https://github.com/calinrus-dev/caja-clara-showcase/blob/main/docs/DEMOSTRACIONES.md)
 
-## Herramientas y soluciones
-
-### [Morgenstern](https://github.com/calinrus-dev/morgenstern-showcase)
-
-Un espacio de trabajo para organizar proyectos narrativos, explorar su estructura, revisar borradores y coordinar procesos de producción.
-
-**Python · Textual · Automatización** · Herramienta de autor en desarrollo.  
-[Ver caso de estudio](https://github.com/calinrus-dev/morgenstern-showcase) · [Demostraciones](https://github.com/calinrus-dev/morgenstern-showcase/blob/main/docs/DEMOSTRACIONES.md)
-
 ### [ModelLedger](https://github.com/calinrus-dev/modelledger-showcase)
 
-Un proyecto de investigación para comparar modelos y planes de IA teniendo en cuenta fuentes, cambios históricos y contexto de uso.
+**Entender qué hay detrás de una ficha de IA.** Modelos, planes, fuentes e histórico para comparar condiciones y hacer visible la incertidumbre. Investigación de producto con integración V2 todavía en desarrollo.
 
 **Rust · TypeScript · React · PostgreSQL · Tauri** · Implementación V2 incompleta.  
 [Ver caso de estudio](https://github.com/calinrus-dev/modelledger-showcase) · [Demostraciones](https://github.com/calinrus-dev/modelledger-showcase/blob/main/docs/DEMOSTRACIONES.md)
 
-### [BarrientosCare](https://github.com/calinrus-dev/barrientoscare-showcase)
+## Experimentos y proyectos anteriores
 
-Una experiencia de catálogo, selección de productos y gestión comercial con identidad visual propia y un recorrido de compra asistida.
+### [Malphas](https://github.com/calinrus-dev/malphas-showcase)
 
-**TypeScript · React · Next.js** · Producto en evolución.  
-[Ver caso de estudio](https://github.com/calinrus-dev/barrientoscare-showcase) · [Demostraciones](https://github.com/calinrus-dev/barrientoscare-showcase/blob/main/docs/DEMOSTRACIONES.md)
+**Experimento: una consola de fantasía moderna.** Investigación con Dart FFI, Flutter y Rust para explorar un entorno en el que crear y ejecutar juegos propios. Un laboratorio técnico secundario dentro del portfolio.
 
-### [ECB Tool](https://github.com/calinrus-dev/ecb-tool-showcase)
-
-Una herramienta de escritorio para organizar recursos musicales, preparar vídeos y coordinar una cola de publicación.
-
-**Python · PyQt · FFmpeg** · Proyecto de escritorio · revisión documental.  
-[Ver caso de estudio](https://github.com/calinrus-dev/ecb-tool-showcase) · [Demostraciones](https://github.com/calinrus-dev/ecb-tool-showcase/blob/main/docs/DEMOSTRACIONES.md)
-
-## Exploraciones de diseño
+**Dart FFI · Flutter · Rust** · Experimento de consola de fantasía.  
+[Ver caso de estudio](https://github.com/calinrus-dev/malphas-showcase) · [Demostraciones](https://github.com/calinrus-dev/malphas-showcase/blob/main/docs/DEMOSTRACIONES.md)
 
 ### [Glow](https://github.com/calinrus-dev/glow-showcase)
 
-Una exploración de plataforma social inmersiva que estudia comunidades temáticas, identidad por contexto y contenido modular.
+**El origen y la identidad visual de Nhur.** Glow fue el nombre anterior de la exploración social. Sus ideas y su estética siguen formando parte de Nhur; este repositorio conserva esa etapa del recorrido.
 
-**Flutter · Dart** · Exploración histórica.  
+**Flutter · Dart** · Origen de Nhur · Identidad visual integrada.  
 [Ver caso de estudio](https://github.com/calinrus-dev/glow-showcase) · [Demostraciones](https://github.com/calinrus-dev/glow-showcase/blob/main/docs/DEMOSTRACIONES.md)
 
 ### [Glow Design](https://github.com/calinrus-dev/glow-design-showcase)
 
-Una investigación de sistema visual que separa componentes, temas y movimiento para dar coherencia a diferentes expresiones de interfaz.
+**La investigación visual detrás de Glow.** Componentes, temas y movimiento en Flutter y Dart que documentan el recorrido del lenguaje visual asociado a Nhur.
 
 **Flutter · Dart · Diseño de interfaces** · Biblioteca experimental e histórica.  
 [Ver caso de estudio](https://github.com/calinrus-dev/glow-design-showcase) · [Demostraciones](https://github.com/calinrus-dev/glow-design-showcase/blob/main/docs/DEMOSTRACIONES.md)
+
+### [ECB Tool](https://github.com/calinrus-dev/ecb-tool-showcase)
+
+**Una mesa de producción para creadores musicales.** Organiza audio, portadas y metadatos, prepara piezas audiovisuales y hace visible la cola de trabajo hasta la publicación autorizada.
+
+**Python · PyQt · FFmpeg** · Proyecto de escritorio · revisión documental.  
+[Ver caso de estudio](https://github.com/calinrus-dev/ecb-tool-showcase) · [Demostraciones](https://github.com/calinrus-dev/ecb-tool-showcase/blob/main/docs/DEMOSTRACIONES.md)
 
 ## Cómo construyo
 
