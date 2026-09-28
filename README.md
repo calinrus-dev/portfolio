@@ -4,7 +4,21 @@
 
 Desarrollo aplicaciones, herramientas y videojuegos con una mentalidad **data-driven y local-first**. Me interesan el rendimiento nativo, la arquitectura orientada a datos y las interfaces sobrias que ofrecen información útil sin sacrificar legibilidad.
 
-[Web](https://calinrus.com) · [Instagram @c4linrus](https://www.instagram.com/c4linrus/) · [Perfil de GitHub](https://github.com/calinrus-dev) · [Manifiesto](docs/MANIFIESTO.md) · [Filosofía](docs/FILOSOFIA.md) · [Stack](docs/STACK.md)
+[Instagram @c4linrus](https://www.instagram.com/c4linrus/) · [LinkedIn / calinrus](https://www.linkedin.com/in/calinrus/) · [Perfil de GitHub](https://github.com/calinrus-dev) · [Manifiesto](docs/MANIFIESTO.md) · [Filosofía](docs/FILOSOFIA.md) · [Stack](docs/STACK.md)
+
+## Menos adjetivos. Abre una prueba.
+
+Estos proyectos conservan su implementación principal privada. Ahora publico piezas seleccionadas y referencias ejecutables, con su origen y sus límites a la vista.
+
+- **Atelier 3D:** [mapa real de atajos, alias y conflictos](https://calinrus-dev.github.io/atelier-3d-showcase/).
+- **Morgenstern:** [entrega EPUB/audio sintética y validador multimedia](https://calinrus-dev.github.io/morgenstern-showcase/).
+- **BarrientosCare:** [web en producción](https://barrientoscare.es) y [filtros extraídos con variantes de precio](https://calinrus-dev.github.io/barrientoscare-showcase/).
+- **KanjiZen:** [evaluador real de respuestas en romaji y kana](https://calinrus-dev.github.io/kanjizen-showcase/).
+- **Etherune:** [laboratorio de gesto y cancelación del movimiento](https://calinrus-dev.github.io/etherune-showcase/).
+- **Nhur:** [referencia local de Entradas modulares](https://calinrus-dev.github.io/nhur-showcase/).
+- **Malphas:** [Rust escribe un framebuffer; Dart verifica la misma memoria](https://github.com/calinrus-dev/malphas-showcase/tree/main/samples/ffi).
+
+Cada caso enlaza código, pruebas y ejecuciones de CI. [Cómo leer la evidencia](docs/EVIDENCIA.md).
 
 ## Trabajo destacado
 
@@ -110,6 +124,6 @@ Desarrollo aplicaciones, herramientas y videojuegos con una mentalidad **data-dr
 
 Cada repositorio es un caso de estudio con componentes, decisiones, material visual y estado explícito. Hay prototipos, entregas documentadas y exploraciones históricas. Las capturas reales están identificadas; las láminas conceptuales emplean contenido ficticio.
 
-La implementación se mantiene en repositorios privados. Aquí comparto la intención de producto, la calidad del diseño y la evidencia que puede mostrarse públicamente.
+La implementación principal sigue privada. Hay componentes extraídos, adaptaciones y referencias nuevas abiertas para inspección; cada una declara su alcance. El historial de publicación de estos casos no representa toda la historia de construcción de los productos.
 
 Última revisión editorial: 28 de septiembre de 2026.
